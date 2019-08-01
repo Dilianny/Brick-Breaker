@@ -3,3 +3,4 @@
 For best result download all files in a folder on your Desktop and upload in a server and open login.php. 
 Login with username: james 
            password: web
+Or go directly to the game by opening index.html
