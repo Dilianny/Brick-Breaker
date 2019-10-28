@@ -1,4 +1,4 @@
-//brick breaker 1.0 James Abney
+
 var canvas = document.getElementById("bbCanvas");
 var ctx = canvas.getContext("2d");
 canvas.width = 900;
